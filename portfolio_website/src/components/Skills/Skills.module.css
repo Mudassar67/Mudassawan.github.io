@@ -1,0 +1,52 @@
+.skills
+{
+    background-color: #141318;
+    padding-bottom: 5%;
+}
+.skills .List ul
+{
+    color: white;
+    list-style-type: none;
+    padding: 0%;
+
+}
+.skills .Container
+{
+    margin-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.skills .Container .List{
+    flex-basis: 33%;
+    background-color: black;
+    box-shadow: 0 0 12px 4px white;
+    border-radius: 9px;
+    margin-bottom: 2%;
+
+}
+.skills .List ul li{
+    display: flex;
+    justify-content: center;
+    font-size: 19px;
+}
+.skills p{
+    padding-left: 0%;
+    width: 68%;
+
+}
+.skills .codethink
+{
+    
+    width: 50%;
+    align-items: center;
+}
+.skills .info
+{
+    align-items: center;
+    justify-content: center;
+    margin-left: 34%;
+    
+}

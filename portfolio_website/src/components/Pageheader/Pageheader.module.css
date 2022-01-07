@@ -1,0 +1,18 @@
+.Container
+{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+.Container hr{
+    position: absolute;
+    left: 0%;
+    top: 1%;
+    width: 180px;
+    border: 2px solid #22066d;
+}
+.Container h1{
+    color: white;
+}

@@ -1,0 +1,28 @@
+.Contact
+{
+    background-color: rgb(74, 73, 75);
+    height: 350px;
+    display: flex;
+    align-items: center;
+
+}
+.Contact .Contacticon
+{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.Contact .Contacticon svg path{
+    cursor: pointer;
+}
+.Contact .Contactform
+{
+    margin-left: 10%;
+    height: 200px;
+    margin-bottom: 3%;
+    
+}
+.Contact .Contactform label
+{
+    color: white;
+}
